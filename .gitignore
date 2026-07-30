@@ -1,0 +1,10 @@
+# Negeer standaard alles
+*
+
+# Maar deel deze wel
+!.gitignore
+!README.md
+
+!Mathematica/
+Mathematica/*
+!Mathematica/SwallowtailNotebook.nb
